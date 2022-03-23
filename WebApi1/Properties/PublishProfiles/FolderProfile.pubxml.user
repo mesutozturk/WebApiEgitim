@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Mesut\Source\Repos\mesutozturk\WebApiEgitim\WebApi1\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-03-22T08:15:03.2077253Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Con1">
+      <Value>Data Source=localhost%3bInitial Catalog=Api1%3bPersist Security Info=False%3bUser ID=sa%3bPassword=P%40ssword1%3bTrustServerCertificate=True%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="WebApi1.Data.MyContext">
+      <Value>Data Source=localhost%3bInitial Catalog=Api1%3bPersist Security Info=False%3bUser ID=sa%3bPassword=P%40ssword1%3bTrustServerCertificate=True%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
