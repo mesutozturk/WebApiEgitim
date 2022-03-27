@@ -6,28 +6,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f480965f-c255-4aec-8cdd-1425288a9828" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebApiEgitim/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebApiEgitim/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebApiEgitim/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApi1/Controllers/ProductController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApi1/Data/MyContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApi1/Dtos/ProductAddRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApi1/Migrations/20220321103524_Init.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApi1/Migrations/20220321103524_Init.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApi1/Migrations/MyContextModelSnapshot.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApi1/Models/Product.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApi1/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApi1/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApi1/WebApi1.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApi1/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApi1/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApiEgitim.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApiEgitim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApiEgitim/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Users/mesutozturk/Sources/WebApiEgitim/WebApi1/Data/MyContext.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -88,8 +78,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647847801780</updated>
-      <workItem from="1647847805619" duration="5224000" />
+      <workItem from="1647847805619" duration="6160000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1647859310320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647859310320</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +110,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
